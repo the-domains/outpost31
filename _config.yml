@@ -1,0 +1,14 @@
+layout_spectrum: 0.7554722335189581
+typography_spectrum: 0.18653599545359612
+color:
+  brandStrength: 0.22542982804588974
+  lightness: 0.3394991895183921
+  saturation: 0.1171595270279795
+  rhythmicContrast: 0.43379682837985456
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Outpost31
